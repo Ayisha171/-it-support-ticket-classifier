@@ -127,7 +127,6 @@ dmypy.json
 .streamlit/cache/
 
 # Large model files (over 50MB)
-*.pkl
 *.joblib
 *.h5
 *.model
