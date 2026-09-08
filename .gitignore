@@ -146,4 +146,3 @@ Thumbs.db
 # Project specific
 data/*.csv
 !data/all_tickets_processed_improved_v3.csv
-app/confusion_matrix.png
